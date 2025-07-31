@@ -61,7 +61,7 @@ const enableBox=()=>{
     }
 }
 const newgame=()=>{
-turn=true;
+turn = true;
 box.innerText="";
 count=0;
 enableBox();

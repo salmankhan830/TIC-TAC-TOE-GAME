@@ -59,9 +59,6 @@ h1{
     color:#ffffc7;
     font-size: 8vmin;
 }
-/* #{
-    visibility:none
-} */
 .msgContainer{
     height: 100vmin;
     display:flex;
